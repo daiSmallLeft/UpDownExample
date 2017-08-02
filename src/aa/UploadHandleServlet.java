@@ -18,7 +18,6 @@ import org.apache.commons.fileupload.FileUploadBase.SizeLimitExceededException;
  import org.apache.commons.fileupload.disk.DiskFileItemFactory;
 import org.apache.commons.fileupload.servlet.ServletFileUpload;
 
-import sun.net.ProgressListener;
  
  /**
  * @ClassName: UploadHandleServlet
